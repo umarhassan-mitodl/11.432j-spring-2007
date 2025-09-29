@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on the required text for the course,
   the schedule of readings, and a list of further readings.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

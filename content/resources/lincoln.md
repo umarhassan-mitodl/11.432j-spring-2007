@@ -4,6 +4,8 @@ description: Case assignment for One Lincoln Street.
 file: /courses/11-432j-real-estate-capital-markets-spring-2007/ef258924d6159945a1769f3e3d6aa064_lincoln.pdf
 file_size: 256808
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
