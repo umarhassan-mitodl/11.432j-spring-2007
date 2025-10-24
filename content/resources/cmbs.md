@@ -4,8 +4,6 @@ description: Case assignment on CMBS.
 file: /courses/11-432j-real-estate-capital-markets-spring-2007/4e7c71553740222cdcd8d63bd1b3d6b3_cmbs.pdf
 file_size: 169162
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
